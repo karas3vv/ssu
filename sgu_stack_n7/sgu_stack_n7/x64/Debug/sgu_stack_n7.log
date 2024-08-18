@@ -1,0 +1,4 @@
+﻿  n7.cpp
+D:\Projects\C++\sgu_stack_n7\n7.cpp(20,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\C++\sgu_stack_n7\n7.cpp(24,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  sgu_stack_n7.vcxproj -> D:\Projects\C++\sgu_stack_n7\x64\Debug\sgu_stack_n7.exe

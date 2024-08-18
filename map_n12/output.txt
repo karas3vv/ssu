@@ -1,0 +1,9 @@
+Number: 1488
+First occurrence: 10, Last occurrence : 10
+
+Number: 1703
+First occurrence: 5, Last occurrence : 12
+
+Number: 52
+First occurrence: 4, Last occurrence : 9
+

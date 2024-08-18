@@ -1,0 +1,18 @@
+﻿  n5.cpp
+D:\Projects\gl8_I_n5\n5.cpp(27,52): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(27,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(29,146): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(29,143): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(29,170): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(29,167): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(31,81): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(31,78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,104): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,101): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,122): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,119): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,142): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,139): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,160): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Projects\gl8_I_n5\n5.cpp(38,157): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  gl8_I_n5.vcxproj -> D:\Projects\gl8_I_n5\x64\Debug\gl8_I_n5.exe

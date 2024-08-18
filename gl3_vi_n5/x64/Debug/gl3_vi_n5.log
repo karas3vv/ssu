@@ -1,0 +1,4 @@
+﻿  n5.cpp
+D:\Projects\gl3_vi_n5\n5.cpp(24,13): warning C4804: <=: небезопасное использование типа "bool" в операции
+D:\Projects\gl3_vi_n5\n5.cpp(26): warning C4715: fx: значение возвращается не при всех путях выполнения
+  gl3_vi_n5.vcxproj -> D:\Projects\gl3_vi_n5\x64\Debug\gl3_vi_n5.exe

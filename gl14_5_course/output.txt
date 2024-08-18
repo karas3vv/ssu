@@ -1,0 +1,3 @@
+Course: Chemistry, Instructor: Olga_Petrova, Hours: 40
+Course: Math, Instructor: Michail_Osipcev, Hours: 10
+Course: Physics, Instructor: Konstantin_Grebenuk, Hours: 30

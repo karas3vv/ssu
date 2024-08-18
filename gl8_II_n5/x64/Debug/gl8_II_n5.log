@@ -1,0 +1,7 @@
+﻿  n5.cpp
+D:\Projects\gl8_II_n5\n5.cpp(8,18): warning C4244: return: преобразование "size_t" в "long double", возможна потеря данных
+D:\Projects\gl8_II_n5\n5.cpp(14,60): warning C4244: аргумент: преобразование "long double" в "size_t", возможна потеря данных
+D:\Projects\gl8_II_n5\n5.cpp(25,35): warning C4244: аргумент: преобразование "long double" в "size_t", возможна потеря данных
+D:\Projects\gl8_II_n5\n5.cpp(25,32): warning C4244: аргумент: преобразование "long double" в "size_t", возможна потеря данных
+D:\Projects\gl8_II_n5\n5.cpp(15): warning C4715: ackermann_function: значение возвращается не при всех путях выполнения
+  gl8_II_n5.vcxproj -> D:\Projects\gl8_II_n5\x64\Debug\gl8_II_n5.exe

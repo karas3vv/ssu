@@ -1,0 +1,4 @@
+﻿  n9.cpp
+D:\Projects\gl8_IV_n9\n9.cpp(8,13): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+D:\Projects\gl8_IV_n9\n9.cpp(10,12): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  gl8_IV_n9.vcxproj -> D:\Projects\gl8_IV_n9\x64\Debug\gl8_IV_n9.exe

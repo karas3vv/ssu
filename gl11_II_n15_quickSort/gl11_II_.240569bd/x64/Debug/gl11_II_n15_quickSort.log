@@ -1,0 +1,4 @@
+﻿  n15.cpp
+D:\Projects\C++\gl11_II_n15_quickSort\n15.cpp(30,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\C++\gl11_II_n15_quickSort\n15.cpp(73,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  gl11_II_n15_quickSort.vcxproj -> D:\Projects\C++\gl11_II_n15_quickSort\x64\Debug\gl11_II_n15_quickSort.exe

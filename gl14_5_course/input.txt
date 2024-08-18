@@ -1,0 +1,3 @@
+Math Michail_Osipcev 10
+Physics Konstantin_Grebenuk 30
+Chemistry Olga_Petrova 40

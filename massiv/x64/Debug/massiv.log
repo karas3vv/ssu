@@ -1,0 +1,4 @@
+﻿  massiv.cpp
+D:\Projects\massiv\massiv.cpp(6,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Projects\massiv\massiv.cpp(13,21): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  massiv.vcxproj -> D:\Projects\massiv\x64\Debug\massiv.exe
